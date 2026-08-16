@@ -12,15 +12,40 @@ The skill can:
 - support Communications and designers with controlled visual development;
 - handle contractors differently depending on whether they are designing or producing approved artwork;
 - flag privacy, clinical, operational-readiness, naming, logo, colour, typography and approval issues;
-- separate public-facing material from internal creator/approval notes.
+- separate public-facing material from internal creator/approval notes;
+- apply specialist document-design and creative-direction logic so that dashboards, decks, reports, social graphics and other designed outputs do not stop at generic defaults.
 
 ## Package structure
 
 - `SKILL.md` — front-door instruction set and decision logic.
-- `references/` — distilled identity, voice, visual, imagery, patient-communication, governance, contractor and asset guidance.
+- `references/` — distilled identity, voice, visual, imagery, patient-communication, governance, contractor, asset and design-specialist guidance.
 - `playbooks/` — task-specific workflows for staff, Communications/design, contractors and common SJH applications.
 - `templates/` — intake, review, approval and verified-information templates.
 - `scripts/` — optional mechanical linting utility for text and HTML/CSS.
+
+## Design-specialist stack
+
+The skill includes a dedicated design-specialist layer for higher-quality designed output:
+- `references/document_design.md`
+- `references/creative_design.md`
+- `references/design_interrogation_checklist.md`
+- `references/design_technique_catalog.md`
+- `references/design_reference_library.md`
+- `references/design_elevation_protocol.md`
+- `references/design_philosophy.md`
+- `playbooks/document_design.md`
+- `playbooks/creative_design.md`
+
+The creation workflow automatically activates this layer for designed artifacts such as presentation decks, dashboards, reports, guides, brochures, patient handouts, posters, social graphics, campaign assets, event visuals and polished digital pages.
+
+The design specialist is instructed to:
+- start with a functional version, then elevate it;
+- question typography, colour, layout, spacing, imagery and data treatment;
+- draw principle-level guidance from professional references such as Stripe, Linear, Apple, Bauhaus and Swiss/International Typographic Style;
+- apply specific visual techniques rather than generic defaults;
+- balance bold choices with tasteful restraint;
+- keep refining until the result feels authored rather than template-generated;
+- show the polished result by default rather than exposing internal design reasoning.
 
 ## Source authority
 
@@ -34,7 +59,7 @@ The institutional source documents themselves are **not committed to this public
 2. Make the current approved Brand Bible available to the AI as the highest-authority source.
 3. Attach/connect current approved master templates and brand assets relevant to the deployment.
 4. Maintain a current verified-information register for changing operational facts.
-5. Preserve the relative paths because `SKILL.md` references the supporting files directly.
+5. Preserve the relative paths because `SKILL.md` and the playbooks reference the supporting files directly.
 
 For an environment that accepts only one instruction file, use `SKILL.md` and make the `references/` and `playbooks/` documents available as attached knowledge.
 
