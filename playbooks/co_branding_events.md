@@ -1,16 +1,29 @@
-# Co-branding and events playbook
+# Co-branding and events
 
-Co-branded and event identities are planned, not improvised.
+Do not improvise multi-logo arrangements.
 
-Before creating material, confirm:
-- participating organisations and lead organiser;
+## Confirm before design
+- lead organiser or lead brand;
+- participating organisations;
 - approved logo files;
-- approved logo order, relative size and placement;
-- event/public name;
-- agreed public announcement wording;
-- donor/partner recognition requirements;
-- approval responsibilities and timeline.
+- agreed logo order;
+- relative size/spacing arrangement;
+- placement across banner/signage/programme/digital/stage materials;
+- approved event name;
+- approved announcement wording;
+- donor-recognition obligations if any;
+- approval responsibilities/timeline.
 
-Do not create ad-hoc logo lockups, new SJH taglines or vendor-led brand systems. Partner/vendor branding should not dominate patient-facing SJH material.
+## Co-branding logic
+Identify whether the material is SJH-led, jointly led, partner-led with SJH participation, Government/Ministry-led with SJH participation, or donor-recognition / sponsorship material. That relationship should govern logo prominence, order, and messaging.
 
-Use only the approved arrangement for Government, Ministry, partner, donor or event co-branding. Any new co-branding treatment requires Communications review and, where applicable, executive/Government approval before publication.
+## Design direction
+For co-branded event material that needs active design, also consult:
+- `playbooks/document_design.md`
+- `playbooks/creative_design.md`
+- `references/design_interrogation_checklist.md`
+
+Use design skill to create clarity and balance, not to improvise new institutional identities.
+
+## Approval and control
+Event co-branding arrangements should be confirmed before material is produced and held by Communications.
