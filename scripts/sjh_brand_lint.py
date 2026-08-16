@@ -45,7 +45,7 @@ def lint(text, external=False, email_signature=False, strict_colors=False):
         for h in sorted(hexes - APPROVED_HEX):
             out.append(issue('RECOMMENDED','UNAPPROVED_HEX',f'Hex colour {h} is outside the approved SJH palette. Confirm whether it is a utility/production colour or replace it.',h))
     for fam in re.findall(r'font-family\s*:\s*([^;}{]+)', text, flags=re.I):
-        names=[x.strip().strip('"\'').lower() for x in fam.split(',')]
+        names=[x.strip().strip("\"'").lower() for x in fam.split(',')]
         if not any(n in ALLOWED_FONTS for n in names):
             out.append(issue('RECOMMENDED','FONT_FAMILY',f'Font stack may not include an approved SJH typeface: {fam.strip()}',fam.strip()))
     return out
