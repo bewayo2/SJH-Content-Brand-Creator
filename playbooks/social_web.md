@@ -1,11 +1,32 @@
-# Social media and web playbook
+# Social media and website
 
 ## Social media
-Use the approved account name including Saint Lucia where required, approved palette/type/graphic elements, one main point per post, a simple call to action, respectful SJH tone, verified information and approved imagery. Social graphics/campaigns require approval before publication.
+### Core rules
+- use the approved institutional account naming;
+- one main point per post or graphic;
+- use a clear call to action where relevant;
+- keep the SJH voice clear, calm, respectful, practical, and audience-first;
+- verify every operational, clinical, or service claim before posting;
+- use approved imagery only, with privacy/consent checks;
+- use approved palette, type, and graphic elements.
 
-## Website
-Use **St. Jude Hospital, Saint Lucia** in the site identity/metadata/footer as required. Service pages should use approved patient-friendly names and provide current location, access instructions, what to bring, contact details and official updates where relevant.
+### Design direction for social graphics
+When the request involves a social graphic, carousel, campaign panel, or digital announcement, also consult:
+- `playbooks/creative_design.md`
+- `references/creative_design.md`
+- `references/design_interrogation_checklist.md`
+- `references/design_technique_catalog.md`
 
-Digital content should be accessible, readable on mobile devices and consistent with approved typography/contrast rules. Patient-facing digital body text should be at least 16 px unless an approved utility application specifies otherwise.
+The graphic should not look like untouched software defaults. It should still remain simple enough for fast consumption on mobile.
 
-Do not publish unverified service hours, readiness claims, contacts or outdated information. Website changes require approval under the current governance process.
+Social graphics/campaigns require approval before publication.
+
+## Website / digital pages
+- external/search identity should use **St. Jude Hospital, Saint Lucia** where applicable;
+- use patient-friendly service names;
+- provide access instructions, what to bring, where to go, and contact/help details where relevant;
+- use verified current contacts/address;
+- meet typography, colour, and accessibility requirements;
+- keep pages current and correct; remove outdated material;
+- use scannable sections, message headings, and clear calls to action;
+- website changes require approval before publication.
