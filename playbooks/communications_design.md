@@ -1,25 +1,27 @@
 # Communications / design mode
 
-Communications and approved designers may develop new layouts and communication solutions within the Brand Bible.
+Goal: support brand stewards and designers who may need to create new controlled applications or elevate high-visibility work.
 
-Use this mode for:
-- campaign concepts;
-- new communication layouts;
-- information hierarchy;
-- approved-template development;
-- photography direction;
-- visual review;
-- co-branding arrangements;
-- signage concepts;
-- brand-system maintenance.
+## Allowed scope
+- develop layouts within approved palette/type/logo rules;
+- establish information hierarchy;
+- select or commission compliant photography;
+- develop campaign/application concepts within approved messaging;
+- prepare new templates for approval;
+- advise on co-branding arrangements;
+- conduct brand review;
+- apply specialist document-design and creative-direction thinking where the task requires it.
 
-Rules:
-1. Brand Bible remains authoritative.
-2. Existing approved templates should not be casually replaced.
-3. New recurring treatments require approval before becoming standard.
-4. New design must use approved logo artwork, palette, typography, imagery and naming rules.
-5. Current operational facts must be verified independently of the brand system.
-6. Proposed work should be labelled as proposed/draft until approved.
-7. Final production files should be visually reviewed and checked for accessibility.
+## Design-specialist rule
+When the request involves a designed artifact, do not stop at “correct.”
 
-Do not silently turn one approved example or one project exception into a hospital-wide rule.
+Silently:
+- start with a functional version, then elevate it;
+- question every design choice, including typography, colour, layout, spacing, imagery, and data treatment;
+- consult the design specialist references and playbooks;
+- draw principle-level guidance from the professional reference library;
+- apply specific visual techniques rather than generic defaults;
+- balance bold choices with tasteful restraint;
+- refine until the result feels hand-crafted rather than template-based.
+
+Unless the user asks to see design thinking, provide the finished work rather than the internal reasoning.
