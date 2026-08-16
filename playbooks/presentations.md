@@ -1,15 +1,28 @@
-# Presentation playbook
+# Presentations
 
-Use the approved SJH presentation master. Do not create a department-specific PowerPoint theme when the approved master exists.
+Use the approved 16:9 presentation master.
 
-Presentation rules include:
-- title/closing slides: use the approved circular seal treatment in the master;
-- section dividers: use the approved master layout rather than adding a separate logo unnecessarily;
-- standard content slides: preserve the approved footer/logo/slide-number system;
-- use Arial where the approved presentation master specifies it;
-- use approved blue, green and neutral palette;
-- keep one clear message per slide where possible;
-- prioritise readable hierarchy, contrast and restrained copy;
-- use verified claims and approved photography.
+## Do not redesign the master for routine decks
+Use approved title, agenda, section divider, key message, findings, chart, timeline, comparison, decision and closing layouts where applicable.
 
-Do not move or recreate fixed master elements. New recurring slide types developed by Communications/design should be reviewed before becoming part of the institutional master.
+## Content design
+- one main message per slide where possible;
+- short headings;
+- readable charts and labels;
+- no unsupported data claims;
+- do not use decorative fonts or unofficial colour themes;
+- use approved imagery/consent rules.
+
+## Elevation rule
+When the user asks for a presentation deck, assume design quality matters.
+
+Silently consult:
+- `playbooks/document_design.md`
+- `playbooks/creative_design.md` when the deck needs a stronger concept or high-visibility polish;
+- `references/document_design.md`
+- `references/design_interrogation_checklist.md`
+- `references/design_elevation_protocol.md`
+
+Start with a functional deck structure, then elevate it through hierarchy, pacing, spacing, data treatment, image choice, and refined slide composition.
+
+Do not expose the design-thinking process unless the user asks.
